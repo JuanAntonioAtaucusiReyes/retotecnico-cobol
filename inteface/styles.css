@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: rgb(169, 223, 191);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #509c61;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 10px;
+    /*border: none;*/
+    cursor: pointer;
+    font-size: 16px;
+
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#reporte {
+    text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+}
