@@ -62,9 +62,14 @@ Se inserta en el HTML el balance final, la mayor transacción y el conteo de Cr�
 ## Estructura del Proyecto:
 📦 Proyecto
 │── 📁 archivosDocument    # Carpeta que contendrá los archivos CSV
+
 │── 📁 interface           # Carpeta con los archivos principales
+
 │   ├── index.html        # Estructura de la página
+
 │   ├── styles.css        # Estilos personalizados
+
 │   ├── script.js         # Lógica del programa
+
 │── 📁 node_modules        # Carpeta generada por las dependencias (si se usan)
 
