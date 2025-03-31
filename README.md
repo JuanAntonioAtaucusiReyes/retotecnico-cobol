@@ -59,13 +59,12 @@ Se recorre el arreglo de transacciones:
 
 Se inserta en el HTML el balance final, la mayor transacción y el conteo de Créditos/Débitos.
 
-
-
-
 ## Estructura del Proyecto:
-archivosDocument : esta carpeta contendra nuestros archivos.
-interface        : esta carpeta contendra nuestros archivos principales, para este reto use
-                    index.html para ver un esquema .
-                    styles.css para darle un toque personal.
-                    script.js se encuentra la logica del programa.
-node_modules      : es una carpeta generada por las dependencias que se necesitaran para este proyecto.
+📦 Proyecto
+│── 📁 archivosDocument    # Carpeta que contendrá los archivos CSV
+│── 📁 interface           # Carpeta con los archivos principales
+│   ├── index.html        # Estructura de la página
+│   ├── styles.css        # Estilos personalizados
+│   ├── script.js         # Lógica del programa
+│── 📁 node_modules        # Carpeta generada por las dependencias (si se usan)
+
